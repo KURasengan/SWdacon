@@ -21,7 +21,11 @@ SW중심대학 공동 AI 경진대회 2023
 ## Branch 전략
 
 - main
+
   메인 Branch로 항상 오류가 없도록 유지한다.
+
 - 각자의 branch
+
   모든 개발은 각자의 branch에서 한다. 기능 개발이 끝나면 main branch로 merge하여 main branch를 업데이트한다.
+
   - main branch에 merge하기 위해서는 반드시 pull request 기능을 사용하여 오류가 없음을 교차검증한다.

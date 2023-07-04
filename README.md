@@ -1,7 +1,8 @@
 # SWdacon
 
 SW중심대학 공동 AI 경진대회 2023  
-2023.07.03 ~ 2023.07.28 09:59
+2023.07.03 ~ 2023.07.28 09:59  
+**[Team Rasengan Notion](https://www.notion.so/SW-AI-2023-4e23f572c493403db2ab7c67e0471d5f)**
 
 ## 주의사항
 

@@ -2,3 +2,5 @@
 *.zip
 *.csv
 *.npy
+*.pt
+*.pth

@@ -1,0 +1,25 @@
+{
+    "device": null,
+    "base_path": "open (1)",
+    "save_path": "result", 
+    "train_data": "train.csv",
+    "test_data": "test.csv",
+    "transform": "transform/base_transform.py",
+    "seed": 42,
+    "valid_size": 0.1,
+    "early_stopping": 30,
+    "scheduler": true,
+    "nums_pixel": false,
+    "k-fold": 1,
+    "train" : {
+       "batch_size" : 16,
+       "num_workers": 1,
+       "epochs": 200,
+       "lr": 0.001
+    },
+    "inference" : {
+       "batch_size" : 8,
+       "num_workers": 1,
+       "threshold": 0.35
+    }
+}

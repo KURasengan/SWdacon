@@ -10,7 +10,7 @@ SW중심대학 공동 AI 경진대회 2023
 따라서 위성 이미지로부터 정밀한 건물의 영역을 분할하여 위와 같은 문제를 해결하기 위해 위성 이미지 건물 영역 분할(Satellite Image Building Area Segmentation) Task를 수행한다.  
 위성 이미지의 건물 영역 분할(Image Segmentation)을 수행하는 AI모델을 개발하는 것이 목적이다.  
 <p align="center">
-  <img src="https://github.com/KURasengan/SWdacon/assets/104672441/acca8089-7bc3-4e68-a929-af78afd8a9d6" alt="Untitled (22)" width="600" height="auto">
+  <img src="https://github.com/KURasengan/SWdacon/assets/104672441/23c0fc67-0d1d-4866-9096-e124c3f13743" alt="Untitled (22)" width="700" height="auto">
 </p>
 
 ## 프로젝트 목표

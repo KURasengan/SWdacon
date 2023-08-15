@@ -77,6 +77,7 @@ SWdacon/
     - 양현서: Pytorch SMP(U++Net 등) 모델 실험
 
 # 3. 프로젝트 결과
+**27위 / 968명(227팀)**
 ![프레젠테이d션1](https://github.com/KURasengan/SWdacon/assets/104672441/623fa63e-e9b0-499d-8852-e0ceb58f641b)
 
 # 5. Contributors
